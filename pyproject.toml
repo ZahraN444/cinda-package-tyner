@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "cinda-package-tyner"
 description = "this is my package description well under the limit"
-version = "1.0.2"
+version = "1.0.3"
 readme = "README.md"
 keywords = []
 authors = []
