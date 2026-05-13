@@ -21,11 +21,11 @@ The package is compatible with Python versions `3.7+`.
 Install the package from PyPi using the following pip command:
 
 ```bash
-pip install cinda-package-tyner==1.0.4
+pip install cinda-package-tyner==1.0.5
 ```
 
 You can also view the package at:
-https://pypi.python.org/pypi/cinda-package-tyner/1.0.4
+https://pypi.python.org/pypi/cinda-package-tyner/1.0.5
 
 ## Initialize the API Client
 

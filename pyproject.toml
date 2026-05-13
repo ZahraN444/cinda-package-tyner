@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "cinda-package-tyner"
 description = "this is my package description well under the limit"
-version = "1.0.4"
+version = "1.0.5"
 readme = "README.md"
 keywords = []
 dependencies = ["apimatic-core~=0.2.0, >= 0.2.24", "apimatic-core-interfaces~=0.1.0, >= 0.1.8", "apimatic-requests-client-adapter~=0.1.0, >= 0.1.10", "python-dotenv>=0.21, <2.0"]
@@ -16,6 +16,7 @@ email = "support@apimatic.com"
 
 [project.urls]
 hi = "https://mailinator.com"
+test = "https://mailinatord.com"
 [project.optional-dependencies]
 testutils = ["pytest>=7.2.2"]
 [tool]
